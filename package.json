@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,14 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treblegni/BloggerServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/treblegni/BloggerServer/issues"
+  },
+  "homepage": "https://github.com/treblegni/BloggerServer#readme",
+  "description": ""
 }
